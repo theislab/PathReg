@@ -1,2 +1,2 @@
 # PathReg
-Sparsity-enforcing regularizer 
+Sparsity-enforcing regularizer for dynamical systems.
