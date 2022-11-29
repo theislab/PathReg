@@ -1,6 +1,7 @@
 # PathReg
 Sparsity-enforcing regularizer for dynamical systems.
 
-link to the paper: 
+link to the paper accepted at NeurIPS 2022: 
 [**Sparsity in Continuous-Depth Neural Networks**](https://arxiv.org/abs/2210.14672)
+
 Hananeh Aliee, Till Richter, Mikhail Solonin, Ignacio Ibarra, Fabian Theis, Niki Kilbertus
